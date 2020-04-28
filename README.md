@@ -8,6 +8,11 @@ chmod +x install.sh
 ./install.sh local
 ```
 
+## 修改alterid
+```
+v2ray d
+```
+
 ## 修改config
 ```
 vim /etc/v2ray/config.json
