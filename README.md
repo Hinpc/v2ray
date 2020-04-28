@@ -8,6 +8,12 @@ chmod +x install.sh
 ./install.sh local
 ```
 
+## 修改config
+```
+vim /etc/v2ray/config.json
+service v2ray restart >/dev/null 2>&1
+```
+
 ## 脚本说明
 [V2Ray 一键安装脚本](https://github.com/233boy/v2ray/wiki/V2Ray%E4%B8%80%E9%94%AE%E5%AE%89%E8%A3%85%E8%84%9A%E6%9C%AC)
 
