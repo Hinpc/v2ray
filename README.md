@@ -8,6 +8,9 @@ chmod +x install.sh
 ./install.sh local
 ```
 
+## 配置文件
+https://github.com/233boy/v2ray/wiki/V2Ray%E4%B8%80%E9%94%AE%E5%AE%89%E8%A3%85%E8%84%9A%E6%9C%AC#%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6%E8%B7%AF%E5%BE%84
+
 ## 修改alterid
 ```
 v2ray d
